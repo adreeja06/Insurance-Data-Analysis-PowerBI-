@@ -1,9 +1,9 @@
-# PRISM Insurance Pvt. Ltd. - Claims Analysis Dashboard
+# PRISM Insurance Pvt. Ltd. - Insurance Analysis Dashboard
 
 ### Project Overview
 An end-to-end Power BI project analyzing insurance claims data to provide actionable insights on performance, profitability, and customer feedback.
 
-**Live Dashboard:** `[Link to your published Power BI Report]`
+
 
 ---
 
