@@ -36,5 +36,4 @@ An end-to-end Power BI project analyzing insurance claims data to provide action
 ---
 
 ### Author
-* **Name:** `[Your Name]`
-* **LinkedIn:** `[Your LinkedIn Profile URL]`
+* **Name:** `Adreeja Mahato`
