@@ -63,5 +63,4 @@ This project involves:
 
 ---
 
-## 📁 Folder Structure
 
