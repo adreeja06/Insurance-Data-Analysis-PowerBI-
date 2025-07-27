@@ -70,10 +70,3 @@ An end-to-end Power BI project analyzing insurance claims data to provide action
 
 ---
 
-
-
-### Author
-
-* **Name:** `Adreeja Mahato`
-
-give an updated readme.md and also include picture of my dashboard insurance-db-analysis.png
